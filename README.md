@@ -1,4 +1,4 @@
-# prmia_pairs_trading
+# modified_pairs_trading
 
 Key files:
 - Preprocessing.mlx: This script is used for pre-processing the data. It gives the daily price file, the industry file, and the coStocks (cointegrated pairs) file. 
